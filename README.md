@@ -3,7 +3,7 @@
 - **Name:** Alina Ibadulla
 - **Group:** SE-2540
 - **Subject:** Web Technologies 1. Front-End Development
-- **repository:**  https://alina7-p.github.io/w6e6b6/
+- **repository:**  https://alina7-p.github.io/6webs/
 
 ---
 
